@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 659 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.462657,0,0,1.670412,-127.59721,-107.226666)">
+        <path d="M502.577,76.414C508.168,76.414 513.53,78.359 517.483,81.821C521.436,85.282 523.657,89.977 523.657,94.873L523.657,173.446C523.657,178.342 521.436,183.037 517.483,186.498C513.53,189.96 508.168,191.905 502.577,191.905L122.276,191.905C116.685,191.905 111.323,189.96 107.37,186.498C103.416,183.037 101.195,178.342 101.195,173.446L101.195,94.873C101.195,89.977 103.416,85.282 107.37,81.821C111.323,78.359 116.685,76.414 122.276,76.414L502.577,76.414Z" style="fill:rgb(33,133,208);stroke:black;stroke-width:0.53px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-36.934621,23.470629)">
+        <g transform="matrix(50,0,0,50,563.436918,141.030321)">
+        </g>
+        <text x="335.387px" y="141.03px" style="font-family:'vivoSansENVF-400', 'vivo Sans EN VF';font-size:50px;fill:rgb(233,233,233);">C<tspan x="367.237px 397.537px 428.287px " y="141.03px 141.03px 141.03px ">ode</tspan>Ber<tspan x="532.637px " y="141.03px ">g</tspan></text>
+    </g>
+    <g transform="matrix(0.044127,0,0,0.044127,116.23248,116.875)">
+        <g transform="matrix(1,0,0,1,-1666.666667,-1666.666667)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="3333.333" height="3333.333"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(138.888889,0,0,138.888889,0,0)">
+                    <path d="M11.955,0.49C5.389,0.515 -0,5.924 0,12.49C-0,14.744 0.635,16.953 1.832,18.863L11.838,5.928C11.871,5.885 11.933,5.858 12,5.858C12.067,5.858 12.129,5.885 12.162,5.928L22.168,18.863C23.365,16.953 24,14.744 24,12.49C24,5.907 18.583,0.49 12,0.49C11.985,0.49 11.97,0.49 11.955,0.49ZM12.33,6.957L16.746,23.51C18.82,22.617 20.601,21.157 21.883,19.297L12.33,6.957Z" style="fill:rgb(208,213,220);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1.356359,0,0,1.356359,-162.019477,4.827873)">
+        <g transform="matrix(50,0,0,50,546.065026,73.617006)">
+        </g>
+        <text x="301.68px" y="73.617px" style="font-family:'NotoSans', 'Noto Sans', sans-serif;font-size:50px;fill:rgb(232,232,232);">Source On</text>
+    </g>
+</svg>
